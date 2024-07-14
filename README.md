@@ -18,6 +18,7 @@ Tambien se está encriptando las contraseñas, en el proceso de registro de usua
          - Uso de Programación Funcional - Streams.
    - PostgreSQL
    - Spring Boot
+   - Postman
 
 **Funcionamiento 👁️:**
    - Diagrama Entidad-Relación en PostgreSQL:

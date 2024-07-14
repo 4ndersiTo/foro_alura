@@ -16,10 +16,11 @@ Tambien se está encriptando las contraseñas, en el proceso de registro de usua
 
          - Uso de Programación Orientada a Objetos.
          - Uso de Programación Funcional - Streams.
-   - PostgresSQL
+   - PostgreSQL
    - Spring Boot
 
 **Funcionamiento 👁️:**
+   - Diagrama Entidad-Relación en PostgreSQL:
    - Registro de USUARIO:
 
 		![Registro usuario]()

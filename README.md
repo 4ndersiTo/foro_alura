@@ -46,11 +46,14 @@ Tambien se está encriptando las contraseñas, en el proceso de registro de usua
      ![lista_topico](https://github.com/4ndersiTo/foro_alura/blob/master/img_readme/lista%20top%C3%ADcos.PNG?raw=true)
 
    - TOPIC por ID:
+
      ![topico por id](https://github.com/4ndersiTo/foro_alura/blob/master/img_readme/topico%20por%20id.PNG?raw=true)
    - Actualización de ESTADO de Tópico:
      ![actualizacion topico](https://github.com/4ndersiTo/foro_alura/blob/master/img_readme/actualizar%20postman.PNG?raw=true)
      ![actualizacion topico 2](https://github.com/4ndersiTo/foro_alura/blob/master/img_readme/actualizar%20postgres.PNG?raw=true)
+     
    - Eliminación de Tópico:
+
      ![eliminación_topico 1](https://github.com/4ndersiTo/foro_alura/blob/master/img_readme/ekiminar%20postamn.PNG?raw=true)
      ![eliminación_topico 2](https://github.com/4ndersiTo/foro_alura/blob/master/img_readme/eliminar%20postgre.PNG?raw=true)
      ![eliminación_topico 3](https://github.com/4ndersiTo/foro_alura/blob/master/img_readme/eliminar%20postmna%20-%20lista.PNG?raw=true)
